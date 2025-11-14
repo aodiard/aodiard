@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aodiard
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on nice projects
 - 📫 How to reach me aodiard@yahoo.com
 
